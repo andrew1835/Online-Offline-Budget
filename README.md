@@ -13,7 +13,7 @@ The assignment wasn't particularly hard, but there were a bunch of tiny issues t
 # Links
 Link to GitHub repo: https://github.com/andrew1835/Online-Offline-Budget
 <br>
-Link to deployed application: https://drive.google.com/file/d/1Sfz2xNXPGsowXfv5zPycSOx6waNdEkjK/view
+Link to deployed application: https://mighty-eyrie-87189.herokuapp.com/
 
 # Screenshot
 This screenshot shows what the application looks like once a few deposits/withdrawals have been made
